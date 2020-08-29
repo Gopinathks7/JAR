@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\CreateJArFile\.metadata\.plugins\org.eclipse.jdt.core
+1127177869.index
+2098495135.index
