@@ -324,3 +324,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-08-29 13:42:13,539 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
 2020-08-29 13:42:14,819 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
 2020-08-29 13:42:14,899 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2020-08-29 13:51:10,281 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-29 13:51:10,473 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Simple:Simple:0.0.1-SNAPSHOT @ E:\CreateJArFile\Simple\pom.xml.
+2020-08-29 13:51:12,144 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-08-29 14:01:55,008 [Worker-15: Launching Executing clean in E__CreateJArFile_Simple] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\CreateJArFile\Simple
+2020-08-29 14:01:55,034 [Worker-15: Launching Executing clean in E__CreateJArFile_Simple] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
