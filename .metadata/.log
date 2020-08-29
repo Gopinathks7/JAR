@@ -537,3 +537,6 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: parser must
 	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
 	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
 	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-08-29 15:00:23.041
+!MESSAGE The POM for org.codehaus.plexus:plexus-utils:jar:3.0.24 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details

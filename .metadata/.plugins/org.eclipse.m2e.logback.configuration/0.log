@@ -625,3 +625,8 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: parser must
 2020-08-29 14:45:09,883 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
 2020-08-29 14:45:09,889 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-29 14:45:09,890 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
+2020-08-29 14:55:01,010 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Simple:Simple:0.0.1-SNAPSHOT @ E:\CreateJArFile\Simple\pom.xml.
+2020-08-29 14:55:02,573 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 14:55:02,574 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
+2020-08-29 14:55:02,588 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 14:55:02,588 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
