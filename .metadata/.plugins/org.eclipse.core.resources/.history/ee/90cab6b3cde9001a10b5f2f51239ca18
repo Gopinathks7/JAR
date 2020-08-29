@@ -5,7 +5,7 @@
   <groupId>Simple</groupId>
   <artifactId>Simple</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
   <name>Simple</name>
   <url>http://maven.apache.org</url>
@@ -21,7 +21,9 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-            
+
+         
+       
 
        
 
@@ -30,20 +32,10 @@
             <artifactId>hibernate-jpa-2.0-api</artifactId>
             <version>1.0.0.Final</version>
         </dependency>
-        
-       <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
-<dependency>
-    <groupId>org.apache.httpcomponents</groupId>
-    <artifactId>httpclient</artifactId>
-    <version>4.5.12</version>
-</dependency>
-       
 
     </dependencies>
 
     <build>
         <finalName>ApplicationName</finalName>
     </build>
-    
-    
 </project>
