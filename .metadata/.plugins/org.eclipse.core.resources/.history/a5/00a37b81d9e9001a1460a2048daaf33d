@@ -5,7 +5,7 @@
   <groupId>Simple</groupId>
   <artifactId>Simple</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>Simple</name>
   <url>http://maven.apache.org</url>
@@ -60,7 +60,7 @@
 		    <configuration>
 			<repository>${docker.image.prefix}/${project.artifactId}</repository>
 			<buildArgs>
-			    <JAR_FILE>target/${project.build.finalName}.war</JAR_FILE>
+			    <JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
 			</buildArgs>
 		    </configuration>
 		</plugin>
