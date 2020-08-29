@@ -1457,3 +1457,17 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: parser must
 2020-08-29 15:04:11,347 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
 2020-08-29 15:04:11,352 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-29 15:04:11,353 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
+2020-08-29 15:09:08,230 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Simple:Simple:0.0.1-SNAPSHOT @ E:\CreateJArFile\Simple\pom.xml.
+2020-08-29 15:09:12,300 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:09:12,300 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
+2020-08-29 15:09:12,306 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:09:12,306 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
+2020-08-29 15:09:40,384 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Simple:Simple:0.0.1-SNAPSHOT @ E:\CreateJArFile\Simple\pom.xml.
+2020-08-29 15:09:41,280 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:09:41,280 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
+2020-08-29 15:09:41,283 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:09:41,284 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
+2020-08-29 15:09:43,440 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:09:43,440 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
+2020-08-29 15:09:43,445 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:09:43,446 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
