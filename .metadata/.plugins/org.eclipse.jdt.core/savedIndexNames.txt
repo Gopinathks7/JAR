@@ -1,7 +1,6 @@
 INDEX VERSION 1.131+E:\CreateJArFile\.metadata\.plugins\org.eclipse.jdt.core
 1974646927.index
 3172496410.index
-235717930.index
 2119194973.index
 4244852114.index
 3493273181.index
