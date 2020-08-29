@@ -1448,3 +1448,12 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: parser must
 2020-08-29 15:02:17,591 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
 2020-08-29 15:02:17,597 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-29 15:02:17,597 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
+2020-08-29 15:04:07,521 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-29 15:04:08,390 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Simple:Simple:0.0.1-SNAPSHOT @ E:\CreateJArFile\Simple\pom.xml.
+2020-08-29 15:04:09,409 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Simple/src/main/java
+2020-08-29 15:04:09,410 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Simple/src/test/java
+2020-08-29 15:04:10,239 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-08-29 15:04:11,347 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:04:11,347 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\main\resources
+2020-08-29 15:04:11,352 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-29 15:04:11,353 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\CreateJArFile\Simple\src\test\resources
